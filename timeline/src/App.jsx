@@ -1,8 +1,8 @@
-import { Formik } from 'formik';
+// import { Formik } from 'formik';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <h1>farzan</h1>
     </div>
   );
