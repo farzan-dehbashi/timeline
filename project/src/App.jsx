@@ -3,11 +3,10 @@ import {Formik} from 'formik'
 const App = () => {
 
   return (
-    <div className="App">
-
+    <Formik initialValues={{state: {}}}>
       <h1>Logo</h1>
-    </div>
-  )
+    </Formik>
+  );
 }
 
 export default App
