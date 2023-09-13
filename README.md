@@ -5,5 +5,4 @@
    | |   | || | | | | ||  __/| || || | | ||  __/
    |_|   |_||_| |_| |_| \___||_||_||_| |_| \___|
 
-# timeline
 This is a project to visualize historical events and figures.
